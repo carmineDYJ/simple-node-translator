@@ -1,0 +1,15 @@
+{
+  "name": "node_translator",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/ts-node-dev main.ts"
+  },
+  "dependencies": {
+    "@types/node": "12.11.2",
+    "commander": "3.0.2",
+    "ts-node-dev": "1.0.0-pre.43",
+    "typescript": "3.7.0-beta"
+  }
+}
