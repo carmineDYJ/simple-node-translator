@@ -1,2 +1,6 @@
 node_modules
 .idea
+
+private.ts
+
+dist/private.js
